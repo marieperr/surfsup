@@ -42,8 +42,6 @@ enableGitInfo = true
   url = "https://themes.gohugo.io/hugo-book/"
   weight = 20
 
-[params]
-
 [markup]
   [markup.goldmark]
     typographer = true
