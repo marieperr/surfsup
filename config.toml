@@ -14,17 +14,14 @@ enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
 [markup]
-[markup.goldmark.renderer]
-  unsafe = true
+[markup.goldmark]
+    typographer = true
+    [markup.goldmark.renderer]
+     footnoteReturnLinkContents = "&uarr;"
+      unsafe = true
 
 [markup.tableOfContents]
   startLevel = 1
-
-# Multi-lingual mode config
-# There are different options to translate files
-# See https://gohugo.io/content-management/multilingual/#translation-by-filename
-# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-
 
 [params]
   BookMenuBundle = "/menu"
@@ -41,14 +38,6 @@ enableGitInfo = true
   name = "Hugo Themes"
   url = "https://themes.gohugo.io/hugo-book/"
   weight = 20
-
-[markup]
-  [markup.goldmark]
-    typographer = true
-    [markup.goldmark.renderer]
-     footnoteReturnLinkContents = "&uarr;"
-      unsafe = true
-
 
 [permalinks]
   docs = "/docs/:title"
