@@ -45,7 +45,7 @@ enableGitInfo = true
 docs = "/docs/:title"
 posts = "/posts/:title"
 shortcode = "/docs/shortcodes/:title"
-pages = "pages/:filename"
+pages = "/:filename"
 
 [taxonomies]
 tag = "tags"
