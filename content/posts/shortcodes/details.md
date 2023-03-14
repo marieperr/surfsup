@@ -1,3 +1,15 @@
+---
+title: "Details"
+categories: [
+    "Shortcodes",
+    "Go",
+]
+tags: [
+    "visuel",
+]
+menu: "main"
+---
+
 # Details
 
 Details shortcode is a helper for `details` html5 element. It is going to replace `expand` shortcode.

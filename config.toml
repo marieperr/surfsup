@@ -1,4 +1,3 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://mmellet.github.io/modele3'
 languageCode = "fr"
@@ -26,21 +25,38 @@ enableGitInfo = true
 [params]
   BookMenuBundle = "/menu"
   BookTheme = "light"
+  BookToC = true
+  BookSection = 'docs'
+  BookSearch = true
 
 [menu]
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  url = ""
   weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
+#[[menu.after]]
+#  name = "Hugo Themes"
+#  url = "https://themes.gohugo.io/hugo-book/"
+#  weight = 20
 
 [permalinks]
-  docs = "/docs/:title"
-  posts = "/posts/:title"
+docs = "/docs/:title"
+posts = "/posts/:title"
+shortcode = "/docs/shortcodes/:title"
+pages = "pages/:filename"
+
+[taxonomies]
+tag = "tags"
 
 [author]
+
+[outputs]
+  page = ["HTML", "print"]
+
+[outputFormats]
+  [outputFormats.print]
+    mediaType = "text/html" # normal
+    rel = "print" # rapport
+    baseName = "print" # /print dans l'URL

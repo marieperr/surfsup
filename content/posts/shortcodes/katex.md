@@ -1,3 +1,16 @@
+---
+title: "KaTeX"
+categories: [
+    "Shortcodes",
+    "Go",
+]
+tags: [
+    "code",
+    "visuel",
+]
+menu: "main"
+---
+
 # KaTeX
 
 KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX](https://katex.org/)

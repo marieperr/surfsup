@@ -1,3 +1,18 @@
+---
+title: "Marqueurs"
+categories: [
+    "Shortcodes",
+    "Go",
+]
+tags: [
+    "visuel",
+    "organisation",
+]
+menu: "main"
+---
+
+
+
 # Hints
 
 Hint shortcode can be used as hint/alerts/notification block.  

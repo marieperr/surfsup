@@ -1,4 +1,18 @@
-# Buttons
+---
+title: "Boutons"
+categories: [
+    "Shortcodes",
+    "Go",
+]
+tags: [
+    "bouton",
+    "visuel",
+]
+menu: "main"
+---
+
+
+# Boutons
 
 Buttons are styled links that can lead to local page or external link.
 

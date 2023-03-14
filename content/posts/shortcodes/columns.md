@@ -1,3 +1,15 @@
+---
+title: "Colonnes"
+categories: [
+    "Shortcodes",
+    "Go",
+]
+tags: [
+    "organisation",
+]
+menu: "main"
+---
+
 # Columns
 
 Columns help organize shorter pieces of content horizontally for readability.
