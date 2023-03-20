@@ -2,6 +2,7 @@
 headless: true
 ---
 
-- [**Pages**]({{< relref "/" >}})
+- **[Blog]({{< relref "/blog" >}})**
+- **[À propos]({{< relref "/about" >}})**
 
-- **[À propos]({{< relref "about.md" >}})**
+

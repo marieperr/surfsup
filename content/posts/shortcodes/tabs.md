@@ -10,25 +10,26 @@ tags: [
 menu: "main"
 ---
 
-# Tabs
+# Tableau
 
-Tabs let you organize content by context, for example installation instructions for each supported platform.
+Le tableau permet d'organiser les contenus selon des contextes, comme par exemple des instructions selon les OS des machines. 
+
 
 ```tpl
 {{</* tabs "uniqueid" */>}}
-{{</* tab "MacOS" */>}} # MacOS Content {{</* /tab */>}}
-{{</* tab "Linux" */>}} # Linux Content {{</* /tab */>}}
-{{</* tab "Windows" */>}} # Windows Content {{</* /tab */>}}
+{{</* tab "MacOS" */>}} # Contenu pour MacOS {{</* /tab */>}}
+{{</* tab "Linux" */>}} # Contenu pour Linux {{</* /tab */>}}
+{{</* tab "Windows" */>}} # Contenu pour Windows {{</* /tab */>}}
 {{</* /tabs */>}}
 ```
 
-## Example
+## Exemple
 
 {{< tabs "uniqueid" >}}
 {{< tab "MacOS" >}}
 # MacOS
 
-This is tab **MacOS** content.
+Ceci est l'onglet pour le Contenu pour **MacOS**.
 
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
@@ -40,7 +41,7 @@ Miseratus fonte Ditis conubia.
 
 # Linux
 
-This is tab **Linux** content.
+Ceci est l'onglet pour le Contenu pour **Linux**.
 
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
@@ -52,7 +53,7 @@ Miseratus fonte Ditis conubia.
 
 # Windows
 
-This is tab **Windows** content.
+Ceci est l'onglet pour le Contenu pour **Windows**.
 
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa

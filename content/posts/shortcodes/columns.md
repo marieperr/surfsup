@@ -10,32 +10,26 @@ tags: [
 menu: "main"
 ---
 
-# Columns
+# Colonnes
 
-Columns help organize shorter pieces of content horizontally for readability.
-
+Les colonnes aident à organiser les informations horizontalement  en prenant moins de place.
 
 ```html
 {{</* columns */>}} <!-- begin columns block -->
-# Left Content
+# Contenu à gauche
 Lorem markdownum insigne...
 
 <---> <!-- magic separator, between columns -->
 
-# Mid Content
-Lorem markdownum insigne...
-
-<---> <!-- magic separator, between columns -->
-
-# Right Content
+# Contenu à droite
 Lorem markdownum insigne...
 {{</* /columns */>}}
 ```
 
-## Example
+## Exemple
 
 {{< columns >}}
-## Left Content
+## Contenu à gauche
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
@@ -43,13 +37,8 @@ Miseratus fonte Ditis conubia.
 
 <--->
 
-## Mid Content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
-stringit, frustra Saturnius uteroque inter!
 
-<--->
-
-## Right Content
+## Contenu à droite
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.

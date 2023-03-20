@@ -13,14 +13,14 @@ $border-radius: $padding-4 !default;
 
 $body-font-weight: normal !default;
 
-$body-min-width: 20rem !default;
+$body-min-width: 45rem !default;
 $container-max-width: 80rem !default;
 
-$header-height: 3.5rem !default;
-$menu-width: 16rem !default;
-$toc-width: 16rem !default;
+$header-height: 2.5rem !default;
+$menu-width: 13rem !default;
+$toc-width: 12rem !default;
 
-$mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
+$mobile-breakpoint: $menu-width + $body-min-width + $toc-width !default;
 
 $hint-colors: (
   info: #6bf,
@@ -34,8 +34,8 @@ $hint-colors: (
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --color-link: #0055bb;
-  --color-visited-link: #8440f1;
+  --color-visited-link: rgb(2, 2, 126);
+  --color-link: blue;
 
   --body-background: white;
   --body-font-color: black;
@@ -52,8 +52,8 @@ $hint-colors: (
   --gray-200: rgba(255, 255, 255, 0.2);
   --gray-500: rgba(255, 255, 255, 0.5);
 
-  --color-link: #84b2ff;
-  --color-visited-link: #b88dff;
+  --color-link: #ffb584;
+  --color-visited-link: #e0906b;
 
   --body-background: #343a40;
   --body-font-color: #e9ecef;

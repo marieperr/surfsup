@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Détails"
 categories: [
     "Shortcodes",
     "Go",
@@ -10,25 +10,25 @@ tags: [
 menu: "main"
 ---
 
-# Details
+# Détails
 
-Details shortcode is a helper for `details` html5 element. It is going to replace `expand` shortcode.
+Détails est un shortcode qui correspond à la balise html `details`. Cela peut remplacer le shortcode[`expand`](https://mmellet.github.io/Carnet-Modele3/posts/shortcodes/expand).
 
-## Example
+## Exemple
 ```tpl
 {{</* details "Title" [open] */>}}
-## Markdown content
+## Contenu en Markdown
 Lorem markdownum insigne...
 {{</* /details */>}}
 ```
 ```tpl
 {{</* details title="Title" open=true */>}}
-## Markdown content
+## Contenu en Markdown
 Lorem markdownum insigne...
 {{</* /details */>}}
 ```
 
 {{< details "Title" open >}}
-## Markdown content
+## Contenu en Markdown
 Lorem markdownum insigne...
 {{< /details >}}

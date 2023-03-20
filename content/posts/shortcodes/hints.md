@@ -13,35 +13,36 @@ menu: "main"
 
 
 
-# Hints
+# Marqueurs
 
-Hint shortcode can be used as hint/alerts/notification block.  
-There are 3 colors to choose: `info`, `warning` and `danger`.
+Le shortcode Hint peut être utilisé en guise de bloc d'indice, d'alerte, de notification.
+
+Il y a trois choix possibles : `info`, `warning` and `danger`.
 
 ```tpl
 {{</* hint [info|warning|danger] */>}}
-**Markdown content**  
+**Contenu en Markdown**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{</* /hint */>}}
 ```
 
-## Example
+## Exemple
 
 {{< hint info >}}
-**Markdown content**  
+**Contenu en Markdown**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}
 
 {{< hint warning >}}
-**Markdown content**  
+**Contenu en Markdown**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}
 
 {{< hint danger >}}
-**Markdown content**  
+**Contenu en Markdown**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}

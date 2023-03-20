@@ -13,9 +13,9 @@ menu: "main"
 
 # KaTeX
 
-KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX](https://katex.org/)
+KaTeX est un shortcode qui permet d'afficher des formules mathématiques dans un document en markdown. Pour la documentation complète : voir [KaTeX](https://katex.org/)
 
-## Example
+## Exemple
 {{< columns >}}
 
 ```latex
@@ -32,10 +32,12 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 
 {{< /columns >}}
 
-## Display Mode Example
+## Exemple du mode d'affichage
 
-Here is some inline example: {{< katex >}}\pi(x){{< /katex >}}, rendered in the same line. And below is `display` example, having `display: block`
+Ici un exemple d'un affichage sur une même ligne : {{< katex >}}\pi(x){{< /katex >}}. 
+
+Ci-dessous, un exemple de `display` en mode `display: block`
 {{< katex display >}}
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
-Text continues here.
+

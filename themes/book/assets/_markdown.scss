@@ -8,9 +8,14 @@
     margin-top: 0;
   }
 
-  h1,
+  h1 {
+    color: #f32b64;
+  }
   h2,
-  h3,
+  h3 {
+color: #1c36ac;
+  }
+
   h4,
   h5,
   h6 {
@@ -65,7 +70,6 @@
 
   img {
     max-width: 100%;
-    height: auto;
   }
 
   code {
@@ -85,10 +89,6 @@
       padding: 0;
       background: none;
     }
-  }
-
-  p {
-    word-wrap:break-word;
   }
 
   blockquote {

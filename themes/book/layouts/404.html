@@ -19,7 +19,7 @@
 
   <body>
     <main class="flex justify-center not-found">
-      <div>
+      <div data-background-image="./images/bug.jpg">
         <h1>404</h1>
         <h2>Page Not Found</h2>
         <h3>
@@ -29,6 +29,7 @@
     </main>
 
     {{ partial "docs/inject/body" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
   </body>
 
   </html>
