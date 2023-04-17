@@ -7,15 +7,14 @@ date: 2023-04-11
 ## *Coquillages*
 
 Je pédale le plus lentement possible pour ne pas arriver trop vite. Mes vêtements mouillés me collent à la peau et mon soulier mal lacé menace de tomber à tout moment. Le vent frappe les arbres qui longent la piste cyclable. Si on tend l’oreille, on entend les vagues appeler. Disent-elles mon nom? Est-ce cela qui m’a tiré du lit ce matin? Ce qui m’a poussée à m’habiller, à sortir de la maison et à prendre mon vélo en direction de la plage? Ou est-ce simplement mon esprit qui me joue des tours? Mon *god’s complex* me pousse souvent à croire que tout tourne autour de moi. Mon *imposter syndrome* me ramène à l’ordre. Pourtant, j’évite ce lieu depuis si longtemps… 
-
 	Arrivée à la plage, j’observe les petites vagues en mouvement. Une dame se tient près de moi sous un parapluie. Tel un hibou, elle tourne sa tête vers moi, son corps reste face aux vagues. Elle me regarde.
   
 -Belle journée, n’est-ce pas? 
 
 Je hoche la tête. Il pleut. 
-	 La dame hibou me sourit. Envahie d’un malaise injustifié, je détourne le regard. Alors que je fais mine d’attacher mon soulier, mes yeux s’arrêtent sur un grand homme blond debout sur le rivage. Il est vêtu d’un chandail jaune et d’un short noir. Brice de Nice?
-Il fixe la mer un instant, puis, contre toute attente, se jette à la mer, planche à la main. 
+	 La dame hibou me sourit. Envahie d’un malaise injustifié, je détourne le regard. Alors que je fais mine d’attacher mon soulier, mes yeux s’arrêtent sur un grand homme blond debout sur le rivage. Il est vêtu d’un chandail jaune et d’un short noir. Brice de Nice? Il fixe la mer un instant, puis, contre toute attente, se jette à la mer, planche à la main. 
 	Hypnotisée par ce qui me semble être une mise en scène, j’avance malgré moi vers l’eau, perdant mon soulier en cours de route. Les vagues lèchent mes pieds de leurs langues glacées et me demandent d’avancer. Mes mollets se crispent. Le froid me blesse, mais les vagues me demandent de continuer. J’entends la dame :
+	
 -Il fait un peu froid pour se baigner, ma belle!
 
 Je ne vois plus le surfer; quelque chose d’autre sous l’eau attire mon attention. Ma main gauche est tendue vers l’objet coloré. Au contact, choc. Une brûlure intense me parcourt. Je retire vivement ma main. Incrédule, je me mets à genoux dans l’eau pour observer l’objet de plus près. C’est un énorme coquillage. Je le retire du sable et le secoue un peu dans l’eau pour le rincer. Je le porte à mon oreille; on entend la mer. Je le positionne ensuite sur mes yeux, comme on le fait avec des longues vues. 
@@ -23,12 +22,14 @@ Je ne vois plus le surfer; quelque chose d’autre sous l’eau attire mon atten
 	Je comprends que c’est un film pour faire rire. C’est de l’humour, de l’absurde. Ultra-privilégié et arrogant, Brice n’est pas le genre de personnage auquel il faudrait s’attacher. Il est évident que je ne pourrais supporter de le côtoyer dans la vraie vie. Malgré tout, en écoutant le film pour la première fois, je me demande pourquoi on rit de son rêve. Je me reconnais dans cet homme ; cheveux blonds, obsession du jaune, besoin d’attention. Je me reconnais aussi dans son désir d’être doué en quelque chose sans n’avoir jamais vraiment essayé. Pendant très longtemps, mon père a tenté de me faire apprivoiser l’art de rouler à bicyclette. Après ma première chute, il n’y avait plus rien à faire, je refusais de réessayer. Oui, Brice et moi, nous avons des rêves semblables et la même peur de l’échec. 
 	Mon père rit aux larmes et se tape sur les cuisses, signe que le film est absolument ridicule. Moi, je suis en extase. À ce moment-là, j’ai envie d’apprendre à surfer. Je sais que ça sonne absurde, mais ce film restera avec moi toute ma vie. 
 	Je dépose le coquillage. Je suis de retour dans le présent, sur la plage, trempée. 
+	
 -Qu’est-ce qui vient de m’arriver? dis-je à voix haute.
 -Ça va ma p’tite? me demande la dame hibou. 
 
 Sursaut. La dame se tient près de moi maintenant. Je l’observe. Elle semble légèrement inquiète, mais pas au point d’avoir vu quelqu’un disparaître et réapparaître. Je ne me suis donc pas magiquement téléportée dans le salon de mon enfance. Peut-être est-ce ma tête qui me joue des tours? Le choc que j’ai ressenti a dû m’affecter plus que je ne le pense. Peut-être était-ce une hallucination? Ce souvenir était si vif, si réaliste…
 	Je me lève doucement et glisse le coquillage dans ma poche de manteau. La dame hibou me regarde toujours, attendant une réponse à sa question. Je n’ai comme réaction qu’un faible sourire. Je suis beaucoup trop ébranlée, j’en oublie presque ma bicyclette. Je l’attache à un arbre en me disant que je reviendrai la chercher demain. Impossible de pédaler dans cet état, je devrai prendre l’autobus. 
 	Trois fois par jour, le conducteur fait des navettes entre le village et la plage. À l’intérieur du véhicule, quelques bancs ont même été enlevés pour y placer un rack pour des planches de surf. J’ai très hâte d’arriver chez moi et d’enlever mes vêtements. Ma peau humide me démange, j’ai perdu un soulier et j’ai froid. Alors que j’essaie de me débarrasser d’une algue à ma cheville, j’entends un ricanement. Je me retourne et aperçois le plus beau sourire du monde. 
+	
 -*I’ve seen many people walk barefoot around here, but I’ve never seen someone with only one shoe*!  
 
 Je rougis. Deux yeux bleus rougis par l’eau salée me regardent. Des mains pleines de sable m’aident à enlever cette algue qui ne semble pas vouloir me quitter. 
@@ -40,18 +41,20 @@ Je rougis. Deux yeux bleus rougis par l’eau salée me regardent. Des mains ple
 	Je n’ai alors pas vraiment envie de retourner à la plage aujourd’hui. Toutefois, contrairement à hier, j’ai un motif : essayer de comprendre ce qui m’est arrivé lorsque j’ai touché ce mystérieux coquillage. C’est en début d’après-midi que je décide enfin de m’y rendre. Le ciel est dégagé, le Soleil brille et la plage est bondée de monde. Ce n’est pas l’environnement idéal pour investiguer des coquillages aux propriétés surnaturelles. Je m’assois donc près de l’arbre où j’ai laissé ma bicyclette et j’attends que le temps passe. Du bout des doigts, je caresse le coquillage. Je le sors de ma poche de manteau et l’observe. C’est une strombe. Ou bien UN strombe? C’est ma sœur qui m’a appris à les nommer. Elle et moi, nous en récoltions lorsque nous allions en vacances avec nos parents… C’était avant la séparation.
 	Des oiseaux planent au-dessus de ma tête. Je ferme les yeux et écoute le son des vagues.
 	Quand j’y pense, j’ai toujours été un peu dramatique. En tant qu’enfant du milieu, je devais l’être. Mais pas pour les trucs sérieux, non. Je l’étais quand je perdais à un jeu de société, par exemple, ou quand on me demandait de laver la vaisselle alors que j’avais DÉJÀ l’intention de le faire.  Des trucs comme ça. Pour les trucs sérieux, je me taisais. La douleur, la peur, la colère, je gardais ça en dedans. 	Un jour, ma mère m’a appelée. Elle disait que c’était « juste pour jaser », qu’elle s’ennuyait de ma voix. J’ai pris des nouvelles de tout le monde, écouté attentivement lorsqu’elle me racontait les ragots de la semaine. Assise sur ma terrasse, je lui ai parlé de mes études, de mon stress et des nouvelles recettes de Ricardo que j’avais essayées. En plein milieu de notre conversation, elle a droppé cette phrase, la voix tremblotante :
-- À ce qu’il parait, l’anxiété, c’est de la colère, oui… de la colère non exprimée.
+-À ce qu’il parait, l’anxiété, c’est de la colère, oui… de la colère non exprimée.
 Puis, elle a laissé planer un silence. C’est dans ce silence que j’ai compris qu’elle me tendait la main, m’invitant à exprimer cette colère. Ma colère face à leur séparation. Ma colère face à ma sœur qui ne retournait pas mes appels. Ma colère face à ma peur de l’échec. J’ai laissé tomber le seul sport qui me faisait sentir bien. J’ai abandonné par peur d’échouer. C’est pathétique.  Je n’ai pas pris la main que ma mère me tendait ce jour-là, mais j’ai gardé cette idée avec moi dans l’espoir d’avoir le courage de laisser sortir ce tourbillon un jour. 	J’attrape le strombe et me lève. 
 	Les plages à Tofino sont uniques. Il y a l’eau, le sable, de nombreux arbres, puis les montages. C’est un paysage impressionnant. Il y a quelques grottes aussi. Les vagues ont creusé dans le sable une petite rivière qui aboutit dans l’une d’elles. Quelque chose me pousse à aller l’explorer. Je regarde autour de moi pour m’assurer que personne ne me remarque, puis j’entre. Une fois à l’intérieur, je me retrouve dans la noirceur totale. Bizarre. Aucune lumière naturelle ne parvient à entrer. Je reste là, figée, et j’écoute. Je n’entends que des bruits mouillés. Soudain, je remarque une étrange lueur qui illumine le fond de la grotte. J’avance. De petits objets luminescents jonchent le sol. J’en ramasse un et découvre alors que c’est un coquillage semblable à celui que j’ai dans les mains. Je le porte à mon oreille et j’entends la mer. Je le positionne ensuite sur mes yeux, comme je l’ai fait hier, pour regarder à l’intérieur. 
+	
 -*Wake up! It's a beautiful morning.*
 
 J’ouvre les yeux sur un cadran. Il est six heures du matin. Quelqu’un m’ébouriffe les cheveux. Ouch, j’ai mal à la tête.
+
 -*Wake up! Would you like to go with me? Take a run down the beach, maybe go surfing… I could teach you.* 
 
 Le sentiment que je connais trop bien m’envahit. Une boule naît dans mon bas ventre. Elle remonte dans mon estomac, puis dans mon œsophage, et ressort par ma bouche en un grognement râpeux. 
 	La peur fait partie de moi. La peur du rejet, du ridicule, de l’échec. Je redoute la défaite. J’ai toujours été consciente que chacune de mes actions entraîne une conséquence. Enfant, je me privais de tant de choses seulement par crainte de ne pas réussir du premier coup. Je voulais être douée dans tout sans faire d’effort. Si j’avais le malheur de me tromper, l’anxiété s’emparait de moi. Je ne voulais surtout pas devenir la risée d’un groupe. Je suis de celles et ceux qui savent tout - qui croient tout savoir. J’ai donc appris toute la théorie existante sur l’art du surf. Je connais les marées hautes, les marées basses, les courants, les angles, la technique de paddle, de mouth mount, le bottom turn, le turtle roll, le white wash, green waves, longboards, short boards, fish, midlelenght, NAME IT. Je m’entends grogner :
-- *Meh… no thank you. I think I’ll stay home today…*
-- 
+-*Meh… no thank you. I think I’ll stay home today…*
+
 Oui, j’ai appris toute la théorie existante sur l’art du surf.  Cependant, à ce moment-là de ma vie, mes connaissances se limitent à la théorie. Je n’ai pas encore essayé de monter sur une planche, je refuse. *The possibilities of failure are endless*, du levé du lit jusqu’au levé sur la planche. Je ne pourrais en aucun cas risquer de me ridiculiser ainsi, même si j’étais la seule présente lors de ma chute. Ma petite voix intérieure comme témoin de ma défaite, c’est déjà *too much to handle*. 
 -… *I feel really tired. Maybe next time.*
 	 	
