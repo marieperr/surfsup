@@ -2,6 +2,7 @@
 title: À propos
 ---
 En vue de commencer ce petit (gros) projet, voici ce que j'avais écrit :
+
 Je me suis souvent questionnée sur la raison d’être des blogs de voyage. Je les consulte
 parfois pour obtenir des recommandations de lieux à visiter et/ou des recommandations de
 restaurants, mais je ne les trouve pas particulièrement pertinents. Puisque je n’ai jamais trouvé
@@ -12,6 +13,7 @@ d’ailleurs en train d’écrire un texte dans le cours Penser-Écrire. C’est
 pages où je me raconte à travers le voyage et le surf. J’aimerais donc intégrer ce texte à mon
 projet final dans le cadre du cours de Pratiques de l’édition numérique. Je choisirai quelques
 extraits et les publierai sous forme d’entrées de blog.
+
 Je me suis inscrite dans le baccalauréat en **Écriture de scénario et création littéraire** pour
 devenir écrivaine. Mon but serait de rassembler mes histoires et d’éventuellement les publier ;
 ce travail-ci me semble un bon point de départ pour m’aider à créer et structurer mes histoires.
@@ -22,6 +24,7 @@ ou bien une page d’accueil pour me décrire ainsi que décrire le projet. À t
 fictifs, je raconterai l’impact que les films de surf ont eu sur moi dès un très jeune âge, ainsi
 que l’intérêt que j’ai toujours eu pour le surf et l’océan. J’utiliserai aussi probablement une
 approche féministe, puisque la culture autour du surf est très masculine.
+
 Mes inspirations sont, entre autres, le film français *Brice de Nice* (2005), le film *Point
 Break* (1991) et le documentaire *Girls Can’t Surf* (2021). J’ai aussi un amour particulier pour
 l’émission de dessin animé *Bob l’Éponge*, qui a bercé mon enfance. Je ne sais pas encore
