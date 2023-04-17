@@ -3,8 +3,8 @@ title: "Le début"
 date: 2023-03-20
 ---
 
-## Le début
-### Point de vue : L'océan
+# Le début
+## Point de vue : L'océan
 
 Elle est arrivée un matin de fin d’été. Elle ne s’en souvient probablement pas. C’était à **Ogunquit** dans le Maine. Elle était toute petite. Sa mère la tenait par la main. Elle était timide, je l’ai senti au premier contact. Je sentais ses petits pieds hésitants. Peut-être l’eau était-elle trop froide.  J’essayais d’envelopper ses orteils doucement, de ne pas lui faire trop peur. Les encouragements de sa mère n’ont pas porté fruit ce jour-là, elle est restée sur le sable.
 
