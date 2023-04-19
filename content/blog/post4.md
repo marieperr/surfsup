@@ -1,6 +1,7 @@
 ---
 title: "Surf et autres choses"
 date: 2023-04-17
+editor: "marie"
 ---
 
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
