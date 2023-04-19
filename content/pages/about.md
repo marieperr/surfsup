@@ -1,6 +1,8 @@
 --- 
 title: À propos
 ---
+{{< expand >}}
+
 En vue de commencer ce petit (gros) projet, voici ce que j'avais écrit :
 
 
@@ -37,3 +39,5 @@ voyage, mais le mien serait plus exploratif et fictif, donc moins factuel.
 
 
 Bref, voici ce à quoi se résume mon projet. Ce qui en résultera reste tout de même une surprise, puisqu'il m'arrive de m'égarer...
+
+{{< /expand >}}
