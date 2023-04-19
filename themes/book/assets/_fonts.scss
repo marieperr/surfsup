@@ -1,23 +1,22 @@
 /* roboto-regular - latin */
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Chivo Mono';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: local(''),
-       url('fonts/roboto-v27-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('fonts/roboto-v27-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
 }
 /* roboto-700 - latin */
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Chivo Mono';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: local(''),
-       url('fonts/roboto-v27-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('fonts/roboto-v27-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
 
 /*"Helvetica Neue", Helvetica, Arial, */
 
@@ -33,13 +32,16 @@
 }
 
 body {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Chivo Mono', monospace;
+  color: white
 }
 
 h1,h2,h3 {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Chivo Mono', monospace;
+  color: white
 }
 
 code {
-  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-family: 'Chivo Mono', monospace;
+  color: white
 }
