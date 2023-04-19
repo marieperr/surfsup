@@ -37,6 +37,6 @@ chaque photographie. C’est ainsi que je me rapprocherai donc de la catégorie 
 voyage, mais le mien serait plus exploratif et fictif, donc moins factuel.
 
 
+{{< /expand >}}
 Bref, voici ce à quoi se résume mon projet. Ce qui en résultera reste tout de même une surprise, puisqu'il m'arrive de m'égarer...
 
-{{< /expand >}}
