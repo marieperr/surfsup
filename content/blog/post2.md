@@ -1,6 +1,7 @@
 ---
 title: "L'histoire"
 date: 2023-04-11
+editor: marie
 ---
 
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
