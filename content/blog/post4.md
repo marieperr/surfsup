@@ -13,9 +13,9 @@ date: 2023-04-17
 
 ### Liste des endroits où j'ai surfé
 
-Tofino
+[Tofino](https://marieperr.github.io/surfsup/blog/lhistoire/)
 
-Ogunquit
+[Ogunquit](https://marieperr.github.io/surfsup/blog/le-d%C3%A9but/)
 
 Honolulu
 
