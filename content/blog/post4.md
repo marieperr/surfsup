@@ -3,6 +3,8 @@ title: "Surf et autres choses"
 date: 2023-04-17
 ---
 
+{{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
+
 {{< tabs >}}
 
 {{< tab"Surf" >}}
