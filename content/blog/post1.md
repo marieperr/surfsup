@@ -9,7 +9,7 @@ date: 2023-04-10
 # Le début
 ## Point de vue : L'océan
 
-Elle est arrivée un matin de fin d’été. Elle ne s’en souvient probablement pas. C’était à **Ogunquit** dans le Maine[^1]. Elle était toute petite. Sa mère la tenait par la main. Elle était timide, je l’ai senti au premier contact. Je sentais ses petits pieds hésitants. Peut-être l’eau était-elle trop froide.  J’essayais d’envelopper ses orteils doucement, de ne pas lui faire trop peur. Les encouragements de sa mère n’ont pas porté fruit ce jour-là, elle est restée sur le sable.
+Elle est arrivée un matin de fin d’été. Elle ne s’en souvient probablement pas. C’était à **Ogunquit**[^1] dans le Maine. Elle était toute petite. Sa mère la tenait par la main. Elle était timide, je l’ai senti au premier contact. Je sentais ses petits pieds hésitants. Peut-être l’eau était-elle trop froide.  J’essayais d’envelopper ses orteils doucement, de ne pas lui faire trop peur. Les encouragements de sa mère n’ont pas porté fruit ce jour-là, elle est restée sur le sable.
 
 
 Elle est tout de même revenue le lendemain d’un pas décidé. Le vent soufflait fort. Elle s’est arrêtée devant moi, les yeux ronds, la bouche entrouverte. Les vagues étaient immenses; la petite est repartie à la course vers son père, qui était assis à l’ombre d’un parasol dans le sable humide. Je l’ai observée jouer sur la plage tous les jours pendant une semaine. Il y avait une curiosité mutuelle. Elle creusait des trous dans le sable et me laissait les remplir d’eau. Elle parlait toute seule, racontait des histoires. Le dernier jour, avant qu’elle ne quitte la côte pour repartir chez elle, ça s’est produit. Sa mère, dans une dernière tentative, l’encourageait à venir la rejoindre; elle avait de l’eau jusqu’aux genoux et cherchait des huîtres dans le sable. Petit à petit, la fillette s’est rapprochée de moi. Je lui ai tendu une vaguelette pour lui chatouiller les chevilles. Elle a ri. C’est ainsi que notre amitié a commencé. 
@@ -21,5 +21,5 @@ Un jour, elle est devenue assez vieille pour venir seule. Elle s’est mise au s
 
 
 
-[^1]: Le Maine est un état des États-Unis situé sur la côte est.
+[^1]: Ogunquit est une ville touristique. Le Maine est un état des États-Unis situé sur la côte est.
 [^2]: Tofino est une ville de pêcheur sur l'île de Vancouver, située sur la côte ouest canadienne.
