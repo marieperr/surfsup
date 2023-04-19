@@ -9,7 +9,9 @@ date: 2023-04-17
 
 {{< tab"Surf" >}}
 
-### Liste des endroits où j'ai surfé 
+{{< columns >}} <!-- begin columns block -->
+
+### Liste des endroits où j'ai surfé
 
 Tofino
 
@@ -18,6 +20,8 @@ Ogunquit
 Honolulu
 
 Sydney
+
+<---> <!-- magic separator, between columns -->
 
 ### Destinations de rêve
 
@@ -38,6 +42,15 @@ Grèce
 Italie
 
 Suisse
+
+{{< /columns >}}
+
+
+
+
+
+
+
 
 
 {{< /tab >}}
