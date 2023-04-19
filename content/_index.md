@@ -1,5 +1,5 @@
 
-#Surf'S Up : tentative de blog de voyage
+Surf'S Up : tentative de blog de voyage
 
 Bienvenue sur ce site en développement. Ceci a été réalisé dans le cadre d'un cours d'édition numériue à l'Udem.
 (Il y a eu bien des sacres et quelques larmes) (I'm joking) (or am I?)
