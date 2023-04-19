@@ -3,7 +3,17 @@ title: "Surf et autres choses"
 date: 2023-04-17
 ---
 
-## Surf
+{{< tabs >}}
+
+{{< tab"Surf" >}}
+
+### Liste des endroits où j'ai surfé et destionations de rêve 
 
 
-## autres choses
+{{< /tab >}}
+
+{{< tab"et autres choses" >}}
+
+### Brice de Nice
+
+### Point Break
