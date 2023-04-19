@@ -35,8 +35,8 @@ m’influencent dans mon écriture. J’aimerais aussi être capable d’intégr
 que j’ai prises moi-même lors de mes aventures. Je raconterai peut-être l’histoire derrière
 chaque photographie. C’est ainsi que je me rapprocherai donc de la catégorie de blog de
 voyage, mais le mien serait plus exploratif et fictif, donc moins factuel.
-
-
 {{< /expand >}}
+
+
 Bref, voici ce à quoi se résume mon projet. Ce qui en résultera reste tout de même une surprise, puisqu'il m'arrive de m'égarer...
 
