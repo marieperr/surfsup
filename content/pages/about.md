@@ -3,7 +3,8 @@ title: À propos
 ---
 En vue de commencer ce petit (gros) projet, voici ce que j'avais écrit :
 
-Je me suis souvent questionnée sur la raison d’être des blogs de voyage. Je les consulte
+
+>Je me suis souvent questionnée sur la raison d’être des blogs de voyage. Je les consulte
 parfois pour obtenir des recommandations de lieux à visiter et/ou des recommandations de
 restaurants, mais je ne les trouve pas particulièrement pertinents. Puisque je n’ai jamais trouvé
 de blog à mon goût, je décide d’en faire un moi-même pour démystifier un peu le phénomène.
@@ -33,3 +34,6 @@ m’influencent dans mon écriture. J’aimerais aussi être capable d’intégr
 que j’ai prises moi-même lors de mes aventures. Je raconterai peut-être l’histoire derrière
 chaque photographie. C’est ainsi que je me rapprocherai donc de la catégorie de blog de
 voyage, mais le mien serait plus exploratif et fictif, donc moins factuel.
+
+
+Bref, voici ce à quoi se résume mon projet. Ce qui en résultera reste tout de même une surprise, puisqu'il m'arrive de m'égarer...
