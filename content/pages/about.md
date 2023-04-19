@@ -9,9 +9,9 @@ restaurants, mais je ne les trouve pas particulièrement pertinents. Puisque je 
 de blog à mon goût, je décide d’en faire un moi-même pour démystifier un peu le phénomène.
 Pour ma part, ce que j’aimerais faire, ce serait de raconter mes voyages et mes péripéties à
 travers de la fiction, comme je le fais parfois dans mes cours de création littéraire. Je suis
-d’ailleurs en train d’écrire un texte dans le cours Penser-Écrire. C’est un texte d’environ 15
+d’ailleurs en train d’écrire un texte dans le cours **Penser-Écrire**. C’est un texte d’environ 15
 pages où je me raconte à travers le voyage et le surf. J’aimerais donc intégrer ce texte à mon
-projet final dans le cadre du cours de Pratiques de l’édition numérique. Je choisirai quelques
+projet final dans le cadre du cours de **Pratiques de l’édition numérique**. Je choisirai quelques
 extraits et les publierai sous forme d’entrées de blog.
 
 Je me suis inscrite dans le baccalauréat en **Écriture de scénario et création littéraire** pour
@@ -25,9 +25,9 @@ fictifs, je raconterai l’impact que les films de surf ont eu sur moi dès un t
 que l’intérêt que j’ai toujours eu pour le surf et l’océan. J’utiliserai aussi probablement une
 approche féministe, puisque la culture autour du surf est très masculine.
 
-Mes inspirations sont, entre autres, le film français *Brice de Nice* (2005), le film *Point
-Break* (1991) et le documentaire *Girls Can’t Surf* (2021). J’ai aussi un amour particulier pour
-l’émission de dessin animé *Bob l’Éponge*, qui a bercé mon enfance. Je ne sais pas encore
+Mes inspirations sont, entre autres, le film français ***Brice de Nice* (2005)**, le film *Point
+Break* (1991) et le documentaire ***Girls Can’t Surf* (2021)**. J’ai aussi un amour particulier pour
+l’émission de dessin animé ***Bob l’Éponge***, qui a bercé mon enfance. Je ne sais pas encore
 si je parlerai de ces oeuvres directement ou indirectement, mais ce que je sais, c’est qu’ils
 m’influencent dans mon écriture. J’aimerais aussi être capable d’intégrer des photographies
 que j’ai prises moi-même lors de mes aventures. Je raconterai peut-être l’histoire derrière
