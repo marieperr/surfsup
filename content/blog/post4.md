@@ -10,20 +10,33 @@ date: 2023-04-17
 {{< tab"Surf" >}}
 
 ### Liste des endroits où j'ai surfé 
+
 Tofino
+
 Ogunquit
+
 Honolulu
+
 Sydney
 
 ### Destinations de rêve
+
 Indonésie
+
 Mexique
+
 Irlande
+
 Angleterre
+
 Pays-Bas
+
 Cap-Vert
+
 Grèce
+
 Italie
+
 Suisse
 
 
