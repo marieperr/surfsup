@@ -1,7 +1,9 @@
 ---
 title: "Le début"
-date: 2023-03-20
+
 ---
+
+{{< button relref="/blog/_index.md" >}}Retour aux choix{{< /button >}}
 
 # Le début
 ## Point de vue : L'océan
