@@ -4,12 +4,13 @@ html {
   font-size: $font-size-base;
   scroll-behavior: smooth;
   touch-action: manipulation;
+color: yellow
 }
 
 body {
   min-width: $body-min-width;
   color: var(--body-font-color);
-  background: yellow(--body-background);
+  background: var(--body-background);
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
