@@ -1,7 +1,7 @@
 --- 
 title: À propos
 ---
-{{< expand >}}
+
 
 En vue de commencer ce petit (gros) projet, voici ce que j'avais écrit :
 
@@ -16,7 +16,7 @@ d’ailleurs en train d’écrire un texte dans le cours **Penser-Écrire**. C�
 pages où je me raconte à travers le voyage et le surf. J’aimerais donc intégrer ce texte à mon
 projet final dans le cadre du cours de **Pratiques de l’édition numérique**. Je choisirai quelques
 extraits et les publierai sous forme d’entrées de blog.
-
+{{< expand >}}
 >Je me suis inscrite dans le baccalauréat en **Écriture de scénario et création littéraire** pour
 devenir écrivaine. Mon but serait de rassembler mes histoires et d’éventuellement les publier ;
 ce travail-ci me semble un bon point de départ pour m’aider à créer et structurer mes histoires.
