@@ -3,7 +3,7 @@ title: "Le début"
 
 ---
 
-{{< button relref="/blog/_index.md" >}}Retour aux choix{{< /button >}}
+{{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
 
 # Le début
 ## Point de vue : L'océan
