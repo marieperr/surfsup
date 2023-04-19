@@ -2,7 +2,7 @@
 title: Crédits
 ---
 
-#Crédits
+Crédits
 
 (J'aimerais créditer tout d'abord mon cerveau pour ce projet.)
 
