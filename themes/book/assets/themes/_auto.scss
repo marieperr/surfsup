@@ -1,5 +1,5 @@
 :root {
-  @include theme-light;
+  @include theme-dark;
 }
 
 @media (prefers-color-scheme: dark) {
