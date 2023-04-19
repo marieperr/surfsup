@@ -6,7 +6,7 @@ date: 2023-04-11
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
 
 # L'histoire 
-## *Coquillages*
+## Coquillages
 
 Je pédale le plus lentement possible pour ne pas arriver trop vite. Mes vêtements mouillés me collent à la peau et mon soulier mal lacé menace de tomber à tout moment. Le vent frappe les arbres qui longent la piste cyclable. Si on tend l’oreille, on entend les vagues appeler. Disent-elles mon nom? Est-ce cela qui m’a tiré du lit ce matin? Ce qui m’a poussée à m’habiller, à sortir de la maison et à prendre mon vélo en direction de la plage? Ou est-ce simplement mon esprit qui me joue des tours? Mon *god’s complex* me pousse souvent à croire que tout tourne autour de moi. Mon *imposter syndrome* me ramène à l’ordre. Pourtant, j’évite ce lieu depuis si longtemps… 
 	Arrivée à la plage, j’observe les petites vagues en mouvement. Une dame se tient près de moi sous un parapluie. Tel un hibou, elle tourne sa tête vers moi, son corps reste face aux vagues. Elle me regarde.
