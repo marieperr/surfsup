@@ -15,7 +15,7 @@ pages où je me raconte à travers le voyage et le surf. J’aimerais donc inté
 projet final dans le cadre du cours de **Pratiques de l’édition numérique**. Je choisirai quelques
 extraits et les publierai sous forme d’entrées de blog.
 
-Je me suis inscrite dans le baccalauréat en **Écriture de scénario et création littéraire** pour
+>Je me suis inscrite dans le baccalauréat en **Écriture de scénario et création littéraire** pour
 devenir écrivaine. Mon but serait de rassembler mes histoires et d’éventuellement les publier ;
 ce travail-ci me semble un bon point de départ pour m’aider à créer et structurer mes histoires.
 Le récit serait séparé en plusieurs parties, chacun sous forme de souvenir. Je m’inspirerai du
@@ -26,7 +26,7 @@ fictifs, je raconterai l’impact que les films de surf ont eu sur moi dès un t
 que l’intérêt que j’ai toujours eu pour le surf et l’océan. J’utiliserai aussi probablement une
 approche féministe, puisque la culture autour du surf est très masculine.
 
-Mes inspirations sont, entre autres, le film français ***Brice de Nice* (2005)**, le film *Point
+>Mes inspirations sont, entre autres, le film français ***Brice de Nice* (2005)**, le film *Point
 Break* (1991) et le documentaire ***Girls Can’t Surf* (2021)**. J’ai aussi un amour particulier pour
 l’émission de dessin animé ***Bob l’Éponge***, qui a bercé mon enfance. Je ne sais pas encore
 si je parlerai de ces oeuvres directement ou indirectement, mais ce que je sais, c’est qu’ils
