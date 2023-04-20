@@ -6,7 +6,7 @@ editor: "marie"
 
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
 
-![yellow](IMG_4034.JPG)
+![yellow](https://github.com/marieperr/surfsup/blob/main/content/IMG_4034.JPG)
 
 {{< tabs >}}
 
