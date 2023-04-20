@@ -19,7 +19,7 @@ Sa famille venait me rendre visite chaque été. Je la retrouvais changée, à c
 
 Un jour, elle est devenue assez vieille pour venir seule. Elle s’est mise au surf. Au début, tout allait bien. Elle prenait de l’assurance. Mais vers la fin, je sentais beaucoup de frustration, d’angoisse et de colère. Il y avait un blocage. Quelque chose l’empêchait de se laisser aller. Puis, un incident est arrivé. Après ce jour-là, je ne l’ai plus revue. Je ne comprenais pas pourquoi. J’avais beau lancer l’appel, elle ne se présentait pas. C’est donc avec surprise que je la retrouve aujourd’hui, à **Tofino**[^2]…
 
-![Eau](/themes/book/static/640px-Reflection_in_water,_glare_on_water._img_003.jpg)
+![Eau](IMG_3738.JPG)
 
 
 [^1]: Ogunquit est une ville touristique. Le Maine est un état des États-Unis situé sur la côte est.
