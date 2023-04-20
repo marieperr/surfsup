@@ -6,7 +6,6 @@ editor: "marie"
 
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
 
-![image](https://marieperr.github.io/surfsup/IMG_4034.JPG)
 
 {{< tabs >}}
 
@@ -50,7 +49,7 @@ Suisse
 
 
 
-
+![image](https://marieperr.github.io/surfsup/IMG_4034.JPG)
 
 
 
@@ -65,5 +64,6 @@ Suisse
 [*Point Break*](https://www.youtube.com/watch?v=jcDD2-s4vWA)  
 
 
+![image](https://marieperr.github.io/surfsup/IMG_4034.JPG)
 
 
