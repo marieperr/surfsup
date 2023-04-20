@@ -6,6 +6,8 @@ editor: "marie"
 
 {{< button relref="/blog/_index.md" >}}Retour{{< /button >}}
 
+![yellow](IMG_4034.JPG)
+
 {{< tabs >}}
 
 {{< tab"Surf" >}}
